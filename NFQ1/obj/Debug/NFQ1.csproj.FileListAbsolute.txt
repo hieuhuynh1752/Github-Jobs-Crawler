@@ -1,0 +1,14 @@
+E:\C# Source\NFQ1\NFQ1\bin\Debug\NFQ1.exe.config
+E:\C# Source\NFQ1\NFQ1\bin\Debug\NFQ1.exe
+E:\C# Source\NFQ1\NFQ1\bin\Debug\NFQ1.pdb
+E:\C# Source\NFQ1\NFQ1\obj\Debug\NFQ1.csproj.CoreCompileInputs.cache
+E:\C# Source\NFQ1\NFQ1\obj\Debug\NFQ1.exe
+E:\C# Source\NFQ1\NFQ1\obj\Debug\NFQ1.pdb
+E:\C# Source\NFQ1\NFQ1\obj\Debug\NFQ1.csprojAssemblyReference.cache
+E:\C# Source\NFQ2\NFQ1\bin\Debug\NFQ1.exe.config
+E:\C# Source\NFQ2\NFQ1\bin\Debug\NFQ1.exe
+E:\C# Source\NFQ2\NFQ1\bin\Debug\NFQ1.pdb
+E:\C# Source\NFQ2\NFQ1\obj\Debug\NFQ1.csprojAssemblyReference.cache
+E:\C# Source\NFQ2\NFQ1\obj\Debug\NFQ1.csproj.CoreCompileInputs.cache
+E:\C# Source\NFQ2\NFQ1\obj\Debug\NFQ1.exe
+E:\C# Source\NFQ2\NFQ1\obj\Debug\NFQ1.pdb
